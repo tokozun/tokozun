@@ -9,6 +9,6 @@
 - タスクマネージャー改造ツール(現在進行形)
 - 本垢 @qurateko
 
-私のX: [Please Click](https://x.com/tokotokozunda)
+私のX: [Please Click](https://x.com/ninteldia)
 Discord: [Invaite](discord.gg/zundamc)
 
