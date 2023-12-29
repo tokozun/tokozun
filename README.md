@@ -3,13 +3,7 @@
 
 **I'm japanese.**
 
-私の実績:
-
-- マルウェアの開発(C#/C++)
-- タスクマネージャー改造ツール(現在進行形)
-- 本垢 @qurateko
-
-私のX: [Please Click](https://x.com/yukuvox)
-Discord: [Invaite](discord.gg/zundamc)
+私のX: [Please Click](https://x.com/tokozun)
+Discord: [Invaite](discord.gg/tokozun)
 Bio: [Please Click](https://solo.to/znd)
 
